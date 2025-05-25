@@ -44,16 +44,17 @@ Bu sistem, yukarıdaki gibi insanın sezgisel kararlarını **bulanık mantıkla
 ```bash
 git clone https://github.com/umutcanozer/fuzzy-meat-cooking.git
 cd fuzzy-meat-cooking
-
+```
 
 ### 2. Gerekli Paketleri Kur
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 
 ### 3. Programı Başlat
 
 ```bash
 python main.py
+```
